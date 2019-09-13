@@ -1,0 +1,44 @@
+.fondo{
+    background-color: #f2f2f2;
+}
+.sombra{
+    -webkit-box-shadow: 5px 10px 15px -2px rgba(0,0,0,0.69);
+    -moz-box-shadow: 5px 10px 15px -2px rgba(0,0,0,0.69);
+    box-shadow: 5px 10px 15px -2px rgba(0,0,0,0.69);
+
+}
+
+.sombra2{
+    -webkit-box-shadow: 0px 7px 15px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 7px 15px 1px rgba(0,0,0,0.75);
+    box-shadow: 0px 7px 15px 1px rgba(0,0,0,0.75);
+}
+
+.container{
+    color: black;
+}
+
+.textSombra{
+    text-shadow: -5px -5px 5px #aaa;
+}
+
+.activo{
+    color: green !important;
+}
+
+.fondo2{
+    background: #C6FFDD;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f7797d, #FBD786, #C6FFDD);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f7797d, #FBD786, #C6FFDD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+.reproductor{
+    position: relative;
+    top: 400px;
+    width: 80%;
+}
+
+
+
+
